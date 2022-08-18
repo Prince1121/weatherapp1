@@ -1,0 +1,31 @@
+.wetherBg{
+  background: url("https://s7d2.scene7.com/is/image/TWCNews/0823_n13_orlando_weather");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:white;
+  font-weight: 500;
+}
+.wetherResultBox{
+  margin:auto;
+  width: 500px;
+  height: 300px;
+}
+.weathericon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weathercity{
+  font-size: 45px;
+  font-weight: 600;
+}
+.weathertemperature{
+  font-size: 50px;
+  font-weight: 700;
+
+}
